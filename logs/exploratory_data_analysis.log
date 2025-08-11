@@ -1,0 +1,17 @@
+2025-08-11 09:54:23,396 - exploratory_data_analysis - INFO - 🚀 StockDataExploration initialized! Ready to analyze stock data.
+2025-08-11 09:55:38,918 - exploratory_data_analysis - INFO - ✅ Successfully plotted closing price for BND.
+2025-08-11 09:55:39,067 - exploratory_data_analysis - INFO - ✅ Successfully plotted closing price for SPY.
+2025-08-11 09:55:39,210 - exploratory_data_analysis - INFO - ✅ Successfully plotted closing price for TSLA.
+2025-08-11 09:56:06,940 - exploratory_data_analysis - INFO - ✅ Successfully plotted percentage change for BND.
+2025-08-11 09:56:07,092 - exploratory_data_analysis - INFO - ✅ Successfully plotted percentage change for SPY.
+2025-08-11 09:56:07,257 - exploratory_data_analysis - INFO - ✅ Successfully plotted percentage change for TSLA.
+2025-08-11 09:56:30,644 - exploratory_data_analysis - INFO - ✅ Successfully plotted data for BND.
+2025-08-11 09:56:31,118 - exploratory_data_analysis - INFO - ✅ Successfully plotted data for SPY.
+2025-08-11 09:56:31,410 - exploratory_data_analysis - INFO - ✅ Successfully plotted data for TSLA.
+2025-08-11 09:56:57,828 - exploratory_data_analysis - INFO - ✅ Successfully detected outliers for BND.
+2025-08-11 09:56:57,952 - exploratory_data_analysis - INFO - ✅ Successfully detected outliers for SPY.
+2025-08-11 09:56:58,085 - exploratory_data_analysis - INFO - ✅ Successfully detected outliers for TSLA.
+2025-08-11 09:57:21,473 - exploratory_data_analysis - INFO - ✅ Successfully plotted percentage change for TSLA.
+2025-08-11 09:57:44,482 - exploratory_data_analysis - INFO - ✅ Successfully plotted unusual daily returns for BND.
+2025-08-11 09:57:44,698 - exploratory_data_analysis - INFO - ✅ Successfully plotted unusual daily returns for SPY.
+2025-08-11 09:57:44,922 - exploratory_data_analysis - INFO - ✅ Successfully plotted unusual daily returns for TSLA.

@@ -1,0 +1,124 @@
+2025-08-11 09:32:36,551 - data_preprocessing - INFO - 📊 Fetching data for BND from 2015-01-01 to 2025-01-31...
+2025-08-11 09:32:40,306 - data_preprocessing - INFO - ✅ Data for BND saved to '../data/BND.csv'.
+2025-08-11 09:32:40,307 - data_preprocessing - INFO - 📊 Fetching data for SPY from 2015-01-01 to 2025-01-31...
+2025-08-11 09:32:43,170 - data_preprocessing - INFO - ✅ Data for SPY saved to '../data/SPY.csv'.
+2025-08-11 09:32:43,172 - data_preprocessing - INFO - 📊 Fetching data for TSLA from 2015-01-01 to 2025-01-31...
+2025-08-11 09:32:45,953 - data_preprocessing - INFO - ✅ Data for TSLA saved to '../data/TSLA.csv'.
+2025-08-11 09:34:36,920 - data_preprocessing - INFO - 📊 Loading data for BND from '../data/BND.csv'.
+2025-08-11 09:34:36,932 - data_preprocessing - INFO - 📊 Loading data for SPY from '../data/SPY.csv'.
+2025-08-11 09:34:36,943 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
+2025-08-11 09:36:05,101 - data_preprocessing - INFO - 📋 Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume    float64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-08-11 09:37:11,100 - data_preprocessing - INFO - 📋 Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume      int64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-08-11 09:38:13,023 - data_preprocessing - INFO - 📋 Data inspection results:
+{'data_types': Open      float64
+High      float64
+Low       float64
+Close     float64
+Volume      int64
+dtype: object, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-08-11 09:39:47,208 - data_preprocessing - INFO - ✨ Basic statistics calculated for data:
+{'mean': Open      7.521512e+01
+High      7.532047e+01
+Low       7.509896e+01
+Close     7.521100e+01
+Volume    4.413582e+06
+dtype: float64, 'median': Open      7.331000e+01
+High      7.340805e+01
+Low       7.319410e+01
+Close     7.328880e+01
+Volume    3.981285e+06
+dtype: float64, 'std_dev': Open      4.932565e+00
+High      4.934177e+00
+Low       4.927229e+00
+Close     4.931971e+00
+Volume    2.771375e+06
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-08-11 09:40:19,207 - data_preprocessing - INFO - ✨ Basic statistics calculated for data:
+{'mean': Open      3.151743e+02
+High      3.168746e+02
+Low       3.133170e+02
+Close     3.152186e+02
+Volume    9.569824e+07
+dtype: float64, 'median': Open      2.764210e+02
+High      2.775120e+02
+Low       2.752350e+02
+Close     2.763820e+02
+Volume    8.283478e+07
+dtype: float64, 'std_dev': Open      1.176918e+02
+High      1.182559e+02
+Low       1.170337e+02
+Close     1.176913e+02
+Volume    5.275659e+07
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-08-11 09:40:38,422 - data_preprocessing - INFO - ✨ Basic statistics calculated for data:
+{'mean': Open      1.179915e+02
+High      1.206401e+02
+Low       1.152106e+02
+Close     1.179612e+02
+Volume    1.113142e+08
+dtype: float64, 'median': Open      3.144000e+01
+High      3.264000e+01
+Low       2.999185e+01
+Close     3.078435e+01
+Volume    9.205712e+07
+dtype: float64, 'std_dev': Open      1.167260e+02
+High      1.194159e+02
+Low       1.138183e+02
+Close     1.166245e+02
+Volume    7.422773e+07
+dtype: float64, 'missing_values': Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64}
+2025-08-11 09:41:10,751 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:41:42,222 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:42:35,201 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:45:22,352 - data_preprocessing - INFO - 🔧 Outliers handled for BND by setting to NaN and filling with interpolation.
+2025-08-11 09:45:22,358 - data_preprocessing - INFO - 🔧 Outliers handled for SPY by setting to NaN and filling with interpolation.
+2025-08-11 09:45:22,362 - data_preprocessing - INFO - 🔧 Outliers handled for TSLA by setting to NaN and filling with interpolation.
+2025-08-11 09:45:22,363 - data_preprocessing - INFO - ✅ Outliers handled across all data sources.
+2025-08-11 09:48:36,709 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:48:56,851 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:49:37,954 - data_preprocessing - INFO - ✨ Outliers detected using iqr method.
+2025-08-11 09:54:46,690 - data_preprocessing - INFO - 📊 Loading data for BND from '../data/BND.csv'.
+2025-08-11 09:54:46,705 - data_preprocessing - INFO - 📊 Loading data for SPY from '../data/SPY.csv'.
+2025-08-11 09:54:46,715 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
