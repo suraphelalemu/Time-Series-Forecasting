@@ -122,3 +122,8 @@ dtype: int64}
 2025-08-11 09:54:46,690 - data_preprocessing - INFO - 📊 Loading data for BND from '../data/BND.csv'.
 2025-08-11 09:54:46,705 - data_preprocessing - INFO - 📊 Loading data for SPY from '../data/SPY.csv'.
 2025-08-11 09:54:46,715 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
+2025-08-13 12:01:20,850 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
+2025-08-14 08:52:55,089 - data_preprocessing - INFO - 📊 Loading data for BND from '../data/BND.csv'.
+2025-08-14 08:52:55,116 - data_preprocessing - INFO - 📊 Loading data for SPY from '../data/SPY.csv'.
+2025-08-14 08:52:55,125 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
+2025-08-14 08:56:13,961 - data_preprocessing - INFO - 📊 Loading data for TSLA from '../data/TSLA.csv'.
